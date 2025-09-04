@@ -19,6 +19,7 @@ The **Data Analyst Agent** is an AI-powered system that turns natural language q
 
 ### 🔹 Usage
 
-Run the code in python using uvicorn app.main:app --reload
-Send a POST request to /api/ with questions.txt (required) and any supporting files (optional). For example, in bash run the command curl "https://app.example.com/api/" -F "questions.txt=@question.txt" -F "image.png=@image.png" -F "data.csv=@data.csv"
-The folders network, sales and weather contain sample test cases that can be used to test the working of the project. 
+* Run the code in python using uvicorn app.main:app --reload
+* Send a POST request to /api/ with questions.txt (required) and any supporting files (optional). For example, in bash run the command curl "https://app.example.com/api/" -F "questions.txt=@question.txt" -F "image.png=@image.png" -F "data.csv=@data.csv"
+* The folders network, sales and weather contain sample test cases that can be used to test the working of the project.
+* The folder v1 is essentially just a basic attempt at the project.
