@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+python-dotenv
+httpx
+playwright
+google-genai
+openai
+pytest-playwright
+networkx

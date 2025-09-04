@@ -1,0 +1,4 @@
+Generate a dummy of the top 20 reviews for the iPhone 15 256GB on Amazon and return in a JSON string array the answers to the following questions based on the data:
+1. How many reviews had 5 stars?
+2. What are the usernames of all users who gave the phone 2 stars?
+3. What's the 17th review? Is it positive or negative?
